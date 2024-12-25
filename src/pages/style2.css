@@ -1,0 +1,115 @@
+/* Logo Color Styles */
+/* Unified Color for Logo */
+.cloudflex-logo{
+    font-size: 20px; /* Adjusted font size */
+    font-weight: bold;
+    color: #1a73e8; /* Blue color similar to Google's */
+    line-height: 1.2;
+    margin-bottom: 16px;
+  }
+  
+  
+  /* General Styles */
+  body {
+    margin: 0;
+    font-family: "Roboto", Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #202124;
+  }
+  
+  /* Container */
+  .gmail-login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Box */
+  .gmail-login-box {
+    background: #fff;
+    width: 360px;
+    padding: 40px 24px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  /* Title and Subtitle */
+  .gmail-login-title {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 8px;
+  }
+  
+  .gmail-login-subtitle {
+    font-size: 14px;
+    color: #5f6368;
+    margin-bottom: 24px;
+  }
+
+  
+  
+  /* Input Group */
+  .input-group {
+    margin-bottom: 16px;
+  }
+  
+  .gmail-input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .gmail-input:focus {
+    outline: none;
+    border-color: #4285f4;
+  }
+  
+  /* Error Message */
+  .gmail-error-message {
+    color: #d93025;
+    font-size: 14px;
+    margin-bottom: 16px;
+    text-align: left;
+  }
+  
+  /* Button */
+  .gmail-login-button {
+    width: 100%;
+    background-color: #1a73e8;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .gmail-login-button:hover {
+    background-color: #1669c1;
+  }
+  
+  /* Footer */
+  .gmail-footer {
+    font-size: 12px;
+    color: #5f6368;
+    margin-top: 16px;
+  }
+  
+  .gmail-footer .gmail-link {
+    color: #1a73e8;
+    text-decoration: none;
+    margin-right: 12px;
+  }
+  
+  .gmail-footer .gmail-link:hover {
+    text-decoration: underline;
+  }
+  .g{
+    color: #63e367;
+  }
